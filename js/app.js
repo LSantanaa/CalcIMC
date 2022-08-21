@@ -25,6 +25,12 @@ function handleBtnClick() {
   let imc = calcIMC(valueWeight, valueHeight).toFixed(2);
   let classificacaoImc = '';
 
+  if (valueHeight == '' || valueWeight == '') {
+    classificacaoImc.textContent = 'Insira os valores';
+    imcResult.textContent = 'Insira os valores';
+    return;
+  }
+
   if (imc < 16) {
     classificacaoImc = 'Não há classificação, valores inválidos.';
   } else if (imc >= 16 && imc <= 16.99) {
