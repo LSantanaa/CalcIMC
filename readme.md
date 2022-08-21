@@ -18,6 +18,8 @@ Vários grupos possuem características específicas e não se encaixam na tabel
 
 Apesar de ser um dos parâmetros mais utilizados para se calcular o peso ideal, a tabela do IMC não considera diversas variáveis importantes no que diz respeito a uma vida saudável – como porcentagem de gordura visceral, o teor de massa magra e a prática de atividades físicas. Então, o ideal é utilizar outros índices e parâmetros juntamente com a tabela do IMC para obter uma avaliação adequada.,
 
-#### Fonte : <a href='https://qbemqfaz.com.br/vida-equilibrada/tabela-imc?gclid=EAIaIQobChMIsPi3rNbY-QIV2uFcCh1SfAiiEAAYASAAEgJj6fD_BwE'>Que Bem Que Faz
+#### Fonte : <a href='https://qbemqfaz.com.br/vida-equilibrada/tabela-imc?gclid=EAIaIQobChMIsPi3rNbY-QIV2uFcCh1SfAiiEAAYASAAEgJj6fD_BwE'>Que Bem Que Faz</a>
 
-##### A tabela IMC usada neste projeto foi do site UOL, que você encontra aqui: <a href='https://www.uol.com.br/vivabem/faq/imc-como-calcular-tabela-dicas-como-melhorar-e-mais.htm'>Viva Bem Uol
+##### A tabela IMC usada neste projeto foi do site UOL, que você encontra aqui: <a href='https://www.uol.com.br/vivabem/faq/imc-como-calcular-tabela-dicas-como-melhorar-e-mais.htm'>Viva Bem Uol</a>
+
+##### <a href= "https://lsantanaa.github.io/CalcIMC/">Acesse Aqui</a>
